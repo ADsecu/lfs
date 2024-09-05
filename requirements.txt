@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+openpyxl
+streamlit-extras
+streamlit-option-menu==0.3.6
+Python-IO==0.3
+hydralit-components
